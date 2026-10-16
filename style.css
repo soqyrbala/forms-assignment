@@ -1,0 +1,7 @@
+body { background: #3f6c9a;
+color: #fefefe }
+.plain-form input[type="text"],
+.plain-form input[type="email"],
+.plain-form textarea { margin-top: 4px; }
+.plain-form button { padding: 6px 16px; cursor: pointer; }
+.navbar-brand { font-weight: 600; }

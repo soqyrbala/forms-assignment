@@ -1,7 +1,7 @@
 # Assignment 4: Forms and Validation
 
-**Student:** Your Full Name
-**Group:** Your Group
+**Student:** Saginbek Mansur
+**Group:** Se-2528
 
 ## Description
 A multi-page website that demonstrates HTML forms, HTML5 validation, Bootstrap form
@@ -23,4 +23,4 @@ components and Bootstrap validation feedback. A shared navbar links all pages.
 ## Deployment
 Published with GitHub Pages: Settings > Pages > Deploy from branch > `main` / root.
 
-Live link: https://YOUR-USERNAME.github.io/YOUR-REPO/
+Live link: https://github.com/soqyrbala/forms-assignment
